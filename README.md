@@ -18,6 +18,11 @@
    </p>
 </p>
 
+## Instructions to run
+- npm install
+- npm run dev
+- node stytch-server
+
 ## Overview
 
 NextAuth.js is a complete open source authentication solution for [Next.js](http://nextjs.org/) applications.
